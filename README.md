@@ -74,7 +74,7 @@ redhunter list-wordlists
 
 ## ✨ Features
 
-- ✅ **Multiple Hash Algorithms**: MD5, SHA1, SHA256
+- ✅ **Multiple Hash Algorithms**: MD5, SHA1
 - ✅ **Auto Environment Setup**: Directories created on first run
 - ✅ **Smart Wordlist Detection**: Auto-finds system wordlists (/usr/share/wordlists/)
 - ✅ **CLI-First Design**: Like jwt_tool but for password cracking
