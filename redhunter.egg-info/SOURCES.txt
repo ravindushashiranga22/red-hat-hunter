@@ -1,0 +1,14 @@
+README.md
+setup.py
+redhunter/__init__.py
+redhunter/__main__.py
+redhunter/banner.py
+redhunter/cli.py
+redhunter/cracker.py
+redhunter/wordlists.py
+redhunter.egg-info/PKG-INFO
+redhunter.egg-info/SOURCES.txt
+redhunter.egg-info/dependency_links.txt
+redhunter.egg-info/entry_points.txt
+redhunter.egg-info/requires.txt
+redhunter.egg-info/top_level.txt
