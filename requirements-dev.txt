@@ -1,0 +1,12 @@
+-r requirements.txt
+
+# Development dependencies
+pytest>=7.0.0
+pytest-cov>=3.0.0
+black>=22.0.0
+flake8>=4.0.0
+pylint>=2.15.0
+mypy>=0.990
+twine>=4.0.0
+wheel>=0.37.0
+setuptools>=65.0.0
